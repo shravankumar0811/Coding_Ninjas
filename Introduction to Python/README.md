@@ -3,8 +3,8 @@ This repository includes all the practice problems and assignments which I've so
 If you're unable to view the patterns properly in Jupyter notebook then double-click the markdown cell to enlarge. 
 
 Topics discussed are:-
-1) [Flow-Chart](https://github.com/shravankumar0811/Coding_Ninjas/tree/main/Introduction%20to%20Python/blob/master/1%20Flow-Chart)
-2) [Introduction to Python](https://github.com/shravankumar0811/Coding_Ninjas/tree/main/Introduction%20to%20Python/tree/master/2%20Introduction%20to%20Python)
+1) [Flow-Chart](https://github.com/shravankumar0811/Coding_Ninjas/Introduction%20to%20Python/blob/master/1%20Flow-Chart)
+2) [Introduction to Python](https://github.com/shravankumar0811/Coding_Ninjas/Introduction%20to%20Python/tree/master/2%20Introduction%20to%20Python)
 3) [Conditionals and Loops](https://github.com/BabaMalik/Coding-Ninjas-Introduction-to-Python/tree/master/3%20Conditionals%20and%20Loops)
 4) [Patterns 1](https://github.com/BabaMalik/Coding-Ninjas-Introduction-to-Python/tree/master/4%20Patterns%201)
 5) [Patterns 2](https://github.com/BabaMalik/Coding-Ninjas-Introduction-to-Python/tree/master/5%20Patterns%202)
