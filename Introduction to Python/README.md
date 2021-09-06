@@ -16,7 +16,9 @@ Topics discussed are:-
 11) [Two Dimensional Lists](https://github.com/shravankumar0811/Coding_Ninjas/tree/main/Introduction%20to%20Python/11%20Two%20Dimensional%20Lists)
 12) [Tupples, Dictionary And Sets](https://github.com/shravankumar0811/Coding_Ninjas/tree/main/Introduction%20to%20Python/12%20Tupples%2C%20Dictionary%20And%20Sets)
 
-
+__Download Jupyter notebook from here:__ https://jupyter.org/  
+__Installing Jupyter notebook:__ https://jupyter.org/install  
+If you're not comfortable with Jupyter notebooks then you can use __Repl.it (Online Editor):__ https://repl.it/languages/python3  
 
 Register the course with the following referral link to get a discount of ₹1,000/-    
 Referral Link: https://www.codingninjas.com/?referralCode=GCKQL
