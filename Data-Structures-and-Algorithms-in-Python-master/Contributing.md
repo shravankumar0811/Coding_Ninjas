@@ -11,7 +11,7 @@ You will need __Jupyter Notebooks__ installed on your system
 
 Get the code by either cloning this repository using git
 ```
-git clone https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python.git
+git clone https://github.com/shravankumar0811/Coding_Ninjas.git
 ```
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
@@ -84,7 +84,7 @@ further defined and clarified by project maintainers.
 ### Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at fazeelusmani18@gmail.com. All
+reported by contacting the project team at skbrahmavar@gmail.com. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
