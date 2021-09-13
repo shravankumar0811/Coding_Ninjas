@@ -11,15 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+This repository includes all the practice problems and assignments which I've solved during the Course of Python Programming taught by Coding Ninjas. It includes 2 chapters as mentioned below.
+# Introduction to Python
+# Algorithms and Data Structures in Python
 
 **Bold** and _Italic_ and `Code` text
 
